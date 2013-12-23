@@ -1,0 +1,6 @@
+1 & Monitör  
+2 & PC
+3 & Notebook
+4 & Yazýcý
+5 & Yazýlým
+6 & Network

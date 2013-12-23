@@ -1,0 +1,6 @@
+           Programýmýz içerisinde stok kayýt edebilir 
+               Var olan kayýtlarý güncelleyebilir
+                         Çalýþanlarý ekleyebilir 
+            Çalýþan bilgilerini güncelleyebilirsiniz
+                Stok kaydýnýza yeni ürün girebilir
+                         Ürün silebilirsiniz
